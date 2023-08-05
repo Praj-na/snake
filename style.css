@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(96, 134, 134);
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:rgb(224, 223, 222);
+}
+
+.head {
+    display: flex;
+}
+
+.title {
+    margin: auto;
+}
+
+#over {
+    margin-top: 200px;
+    display: none;
+}
+
+.over {
+    color:rgb(224, 223, 222);
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(36, 36, 67);
+    padding: 20px;
+    cursor: pointer;
+}
